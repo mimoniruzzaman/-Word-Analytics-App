@@ -1,0 +1,50 @@
+textarea {
+  padding: 10px;
+}
+.count-section {
+  max-width: 600px;
+  margin: auto;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  background-color: darkblue;
+  border-radius: 20px;
+}
+.count-box {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  padding: 10px;
+}
+h2 {
+  color: white;
+}
+
+.warning-box {
+  color: white;
+  background-color: red;
+  text-align: center;
+  padding: 10px;
+}
+.box-div {
+  max-width: 600px;
+  margin: auto;
+  display: none;
+}
+
+.warning-box-two {
+  color: white;
+  background-color: red;
+  text-align: center;
+  padding: 10px;
+}
+.box-div-two {
+  max-width: 600px;
+  display: none;
+  margin: auto;
+}
+.word-alert {
+  color: black;
+  text-align: center;
+  display: none;
+}
